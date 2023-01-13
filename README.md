@@ -1,7 +1,5 @@
 # Yatube project
 
-![GitHub repo size](https://github.com/octrow/repo-size/yatube_project/README.md)
-
 ### Описание
 Social network of bloggers
 ### Технологии
@@ -20,7 +18,9 @@ python3 manage.py runserver
 ### Авторы
 Даня
 
-<!---![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
+<!---
+![GitHub repo size](https://github.com/octrow/repo-size/yatube_project/README.md)
+![GitHub contributors](https://img.shields.io/github/contributors/scottydocs/README-template.md)
 ![GitHub stars](https://img.shields.io/github/stars/scottydocs/README-template.md?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/scottydocs/README-template.md?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/scottydocs?style=social) --->
