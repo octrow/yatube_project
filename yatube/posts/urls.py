@@ -8,5 +8,5 @@ urlpatterns = [
     # Страница со списком постов
     path('posts/', views.posts_list),
     # Отдельная страница с информацией о постах
-    path('groups/<slug:slug>/', views.group_posts),
+    path('group/<slug:slug>/', views.group_posts),
 ] 
